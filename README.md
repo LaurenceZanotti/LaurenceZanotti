@@ -1,8 +1,8 @@
 <div>
-    <img src="carbon-sh-ghprofile.png" alt="Carbon SH GH Profile" width="800px">
-<div>
+    <img src="carbon-sh-ghprofile.png" alt="Carbon SH GH Profile">
+</div>
 
-[Versão em Português](README_ptbr.md)
+* [Versão em Português](README_ptbr.md)
 
 <!--
 **LaurenceZanotti/LaurenceZanotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
