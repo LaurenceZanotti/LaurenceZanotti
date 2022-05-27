@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div>
+    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" style="width: 100px;">
+</div>
+
 <!--
 **LaurenceZanotti/LaurenceZanotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
