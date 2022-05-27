@@ -1,5 +1,7 @@
 ![Carbon SH GH Profile](carbon-sh-ghprofile.png)
 
+[Versão em Português](carbon-sh-ghprofile_ptbr.png)
+
 <!--
 **LaurenceZanotti/LaurenceZanotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
