@@ -8,28 +8,29 @@
 
 ## about-me-cli
 
-    ./> interests --list
+    ./> interests
 
-    1. Full Stack Web Development
-    2. Mobile Development
-    3. AI
-
-    ./> courses --attending
-
-    • Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá (UNESA)
-    • HarvardX CS50's Web Programming with Python and JavaScript
+    1. Cloud-native Application Development
+    2. Product and software engineering
+    3. Personal Knowledge Management, PKM (I'm Obsidian-obsessed!)
 
     ./> courses
 
-    • HarvardX CS50's Introduction to Computer Science
+    • Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá (UNESA)
+    • HarvardX CS50's Computer Science for Web Programming
     • ETEC - Computer Technician
 
     ./> projects
 
-    • Jobfindr - Job search and talent acquisition platform (WIP)
-    • FollowPhone - Contact management and tracking (CRM app)
+    • AI Chat - LLM powered chat that allows for shareable conversations ¹
+    • Obsync - Multi-remote sync tool to keep my Obsidian knowledge updated everywhere
     • Finance - Simulation of buying and selling shares
     • Countfin App - Personal finance control app
+
+## Links
+
+- HarvardX CS50's Computer Science for Web Programming: [professional certificate](https://credentials.edx.org/credentials/45bcb6b8851a4879b2a43cb01688bfaa/)
+- ¹ **AI Chat** project was coded without AI -- a [gold standard](https://cs50.harvard.edu/x/honesty/) to pass Harvard CS50's [professional program](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-web-programming)
 
 ## Reach me
     
@@ -41,18 +42,3 @@
 ### Email 
 
 * laurencezanotti@gmail.com
-
-<!--
-**LaurenceZanotti/LaurenceZanotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
