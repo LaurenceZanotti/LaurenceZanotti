@@ -8,7 +8,7 @@
 
 ## about-me-cli
 
-    ./> interests --list
+    ./> interests
 
     1. Cloud-native Application Development
     2. Product and software engineering
@@ -17,16 +17,20 @@
     ./> courses
 
     • Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá (UNESA)
-    • [HarvardX CS50's Computer Science for Web Programming](https://credentials.edx.org/credentials/45bcb6b8851a4879b2a43cb01688bfaa/)
+    • HarvardX CS50's Computer Science for Web Programming
     • ETEC - Computer Technician
 
     ./> projects
 
-    • AI Chat - LLM powered chat that allows for shareable conversations (without AI -- a gold standard to pass [CS50's professional program
-(https://cs50.harvard.edu/x/honesty/))
+    • AI Chat - LLM powered chat that allows for shareable conversations ¹
     • Obsync - Multi-remote sync tool to keep my Obsidian knowledge updated everywhere
     • Finance - Simulation of buying and selling shares
     • Countfin App - Personal finance control app
+
+## Links
+
+- HarvardX CS50's Computer Science for Web Programming: [professional certificate](https://credentials.edx.org/credentials/45bcb6b8851a4879b2a43cb01688bfaa/)
+- ¹ **AI Chat** project was coded without AI -- a [gold standard](https://cs50.harvard.edu/x/honesty/) to pass Harvard CS50's [professional program](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-web-programming)
 
 ## Reach me
     
